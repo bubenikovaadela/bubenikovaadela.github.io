@@ -4,8 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Email: **yourname@domain.com**  
-(Replace this with your preferred address.)
+Email: **bubenikova.adela.ab@gmail.com**
 
 ### For undergraduate students
 If you’re reaching out about getting started in research, it helps to include:
