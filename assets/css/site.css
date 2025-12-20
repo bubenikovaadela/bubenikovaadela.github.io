@@ -96,29 +96,24 @@ pre{
   overflow:auto;
 }
 
-/* Home "Jon-style" hero */
+/* Home hero */
 .home-hero{
   display: flex;
-  gap: 1.25rem;
+  gap: 1.1rem;
   align-items: flex-start;
   margin-top: 0.25rem;
 }
 .home-hero .avatar{
-  width: 96px;
-  height: 96px;
+  width: 72px;
+  height: 72px;
   border-radius: 999px;
   object-fit: cover;
   border: 1px solid var(--line);
   flex: 0 0 auto;
 }
 @media (max-width: 520px){
-  .home-hero{
-    flex-direction: column;
-  }
-  .home-hero .avatar{
-    width: 88px;
-    height: 88px;
-  }
+  .home-hero{ flex-direction: column; }
+  .home-hero .avatar{ width: 68px; height: 68px; }
 }
 
 .site-footer{

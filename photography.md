@@ -12,5 +12,3 @@ I make photographs as a practice of noticing.
 {% for post in photos limit:12 %}
 - **{{ post.date | date: "%Y-%m-%d" }}** — [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
-
-If you’re interested in prints, collaborations, or commissioning a photo-essay, please reach out.
