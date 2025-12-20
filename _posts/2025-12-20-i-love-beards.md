@@ -1,5 +1,5 @@
 ---
-title: "I love beards."
+title: "Beards."
 date: 2025-12-20 08:00:00 +0100
 categories: [essays]
 ---
