@@ -115,7 +115,7 @@ pre{
 }
 @media (max-width: 520px){
   .home-hero{ flex-direction: column; }
-  .home-hero .avatar{ width: 60px; height: 60px; }
+  .home-hero .avatar{ width: 96px; height: 96px; }
 }
 
 .site-footer{
