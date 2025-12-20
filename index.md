@@ -8,7 +8,11 @@ permalink: /
   <div>
     <p>I’m <strong>Adela Bubenikova</strong>, a neuroscience researcher originally based in Prague—though these days I’m often elsewhere. I work close to neurosurgery, using neuroimaging and quantitative methods to ask how brains become lives.</p>
 
-    <p>I’m part of <a href="https://praguebrainsgroup.com/" target="_blank" rel="noopener">PragueBrainsGroup</a> and I study at the <a href="https://www.lf2.cuni.cz/en" target="_blank" rel="noopener">Second Faculty of Medicine, Charles University</a>. I also write science communication for <a href="https://vesmir.cz/" target="_blank" rel="noopener">Vesmír</a>, and I teach.</p>
+    <p>
+      I’m part of <a href="https://praguebrainsgroup.com/" target="_blank" rel="noopener">PragueBrainsGroup</a> and I study at the
+      <a href="https://www.lf2.cuni.cz/en" target="_blank" rel="noopener">Second Faculty of Medicine, Charles University</a>.
+      I also write science communication for <a href="https://vesmir.cz/" target="_blank" rel="noopener">Vesmír</a>, and I teach.
+    </p>
 
     <p>Alongside research, I write essays. This site holds careful work with data, and careful attention to experience. I’m interested in learning—how it fails, how it returns, and what we do when answers don’t.</p>
 
