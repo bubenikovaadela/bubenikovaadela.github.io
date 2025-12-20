@@ -1,6 +1,6 @@
 title: "Adela Bubenikova"
-tagline: "Neuroscience, writing, photography"
-description: "Neuroscience, essays, and photography—asking how brains become lives."
+tagline: "Neuroscience and essays"
+description: "Neuroscience and essays—asking how brains become lives."
 url: "https://bubenikovaadela.github.io"
 
 author:
@@ -24,26 +24,12 @@ nav:
     url: "/research/"
   - title: "Publications"
     url: "/publications/"
-  - title: "Writing"
-    url: "/writing/"
-  - title: "Photography"
-    url: "/photography/"
   - title: "Contact"
     url: "/contact/"
-
-collections:
-  photo_essays:
-    output: true
-    permalink: /photos/:year/:month/:day/:title/
 
 defaults:
   - scope:
       path: ""
       type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "photo_essays"
     values:
       layout: "post"

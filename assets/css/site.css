@@ -96,7 +96,7 @@ pre{
   overflow:auto;
 }
 
-/* Home hero */
+/* Home hero: photo on the right */
 .home-hero{
   display: flex;
   gap: 1.1rem;
@@ -104,8 +104,8 @@ pre{
   margin-top: 0.25rem;
 }
 .home-hero .avatar{
-  width: 72px;
-  height: 72px;
+  width: 56px;
+  height: 56px;
   border-radius: 999px;
   object-fit: cover;
   border: 1px solid var(--line);
@@ -113,7 +113,7 @@ pre{
 }
 @media (max-width: 520px){
   .home-hero{ flex-direction: column; }
-  .home-hero .avatar{ width: 68px; height: 68px; }
+  .home-hero .avatar{ width: 60px; height: 60px; }
 }
 
 .site-footer{
