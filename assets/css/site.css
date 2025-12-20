@@ -96,6 +96,31 @@ pre{
   overflow:auto;
 }
 
+/* Home "Jon-style" hero */
+.home-hero{
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  margin-top: 0.25rem;
+}
+.home-hero .avatar{
+  width: 96px;
+  height: 96px;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  flex: 0 0 auto;
+}
+@media (max-width: 520px){
+  .home-hero{
+    flex-direction: column;
+  }
+  .home-hero .avatar{
+    width: 88px;
+    height: 88px;
+  }
+}
+
 .site-footer{
   border-top: 1px solid var(--line);
   padding: 1.25rem 0;
@@ -110,25 +135,4 @@ pre{
 .footer-line a:hover{
   color: var(--fg);
   border-bottom-color: var(--fg);
-}
-
-/* Hero */
-.hero{
-  display: flex;
-  gap: 1.25rem;
-  align-items: flex-start;
-  margin-top: 0.25rem;
-}
-.hero-img{
-  width: 132px;
-  height: 132px;
-  border-radius: 999px;
-  object-fit: cover;
-  border: 1px solid var(--line);
-  flex: 0 0 auto;
-}
-.hero-text{ flex: 1 1 auto; }
-@media (max-width: 640px){
-  .hero{ flex-direction: column; align-items: center; }
-  .hero-img{ width: 148px; height: 148px; }
 }

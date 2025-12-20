@@ -6,10 +6,10 @@ permalink: /writing/
 
 I write essays and short pieces—some about science, some about attention and experience.
 
-## On this site
-- See the blog: [/blog/](/blog/)
+## Essays & notes (on this site)
+- See the blog index: [/blog/](/blog/)
 
 ## Science communication
-I also write popular science (e.g., Vesmír).
+I also write for Czech science outlets, including **Vesmír**.
 
-If you’d like me to write or edit a piece, contact me.
+If you’d like me to write or edit a piece (popular science, essay, or research-adjacent writing), contact me.

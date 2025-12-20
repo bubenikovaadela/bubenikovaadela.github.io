@@ -4,18 +4,16 @@ title: Home
 permalink: /
 ---
 
-<div class="hero">
-  <img class="hero-img" src="/assets/img/profile.jpg" alt="Portrait of Adela Bubenikova">
-  <div class="hero-text">
+<div class="home-hero">
+  <img class="avatar" src="/assets/img/profile.jpg" alt="Adela Bubenikova">
+  <div>
+    <p>I’m <strong>Adela Bubenikova</strong>, a neuroscience researcher originally based in Prague—though these days I’m often elsewhere. I work close to neurosurgery, using neuroimaging and quantitative methods to ask how brains become lives.</p>
 
-I’m **Adela Bubenikova**, a neuroscience researcher originally based in Prague—though these days I’m often elsewhere. I work close to neurosurgery, using neuroimaging and quantitative methods to ask how brains become lives.
+    <p>Alongside research, I write essays and make photographs. This site holds both sides of my life: careful work with data, and careful attention to experience. I’m interested in learning—how it fails, how it returns, and what we do when answers don’t.</p>
 
-Alongside research, I write essays and make photographs. This site holds both sides of my life: careful work with data, and careful attention to experience. I’m interested in learning—how it fails, how it returns, and what we do when answers don’t.
+    <p>I had the good fortune to begin research at a young age, thanks to the generosity and support of my advisors and academic community. I’m interested in helping ambitious undergraduate students likewise break into the world of academia. <strong>Please get in touch.</strong></p>
 
-I had the good fortune to begin research at a young age, thanks to the generosity and support of my advisors and academic community. I’m interested in helping ambitious undergraduate students likewise break into the world of academia. **Please get in touch.**
-
-If you’re trying to find me in person, you’ll have better luck by email than by geography.
-
+    <p>If you’re trying to find me in person, you’ll have better luck by email than by geography.</p>
   </div>
 </div>
 

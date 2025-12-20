@@ -6,4 +6,8 @@ categories: [photography]
 
 A placeholder for a photo-essay.
 
-(Images coming soon.)
+Add images by placing files in `assets/img/` and referencing them like:
+
+```markdown
+![Alt text](/assets/img/example.jpg)
+```
