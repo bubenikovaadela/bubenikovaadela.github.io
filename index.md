@@ -16,7 +16,7 @@ permalink: /
 
     <p>Alongside research, I write essays. This site holds careful work with data, and careful attention to experience. I’m interested in learning—how it fails, how it returns, and what we do when answers don’t.</p>
 
-    <p><a href="mailto:bubenikova.adela.ab@gmail.com"><strong>Please get in touch.</strong></a></p>
+    <p>I was lucky to begin research at a young age, supported by generous mentors and an academic community that opened doors for me. I’m keen to help ambitious undergraduates take their first steps into academia in the same spirit.<a href="mailto:bubenikova.adela.ab@gmail.com"><strong>Please get in touch.</strong></a></p>
 
     <p>If you’re trying to find me in person, you’ll have better luck by email than by geography.</p>
   </div>
