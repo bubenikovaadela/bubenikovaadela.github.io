@@ -97,11 +97,13 @@ pre{
 }
 
 /* Home hero: photo on the right */
-.home-hero{
-  display: flex;
-  gap: 1.1rem;
-  align-items: flex-start;
-  margin-top: 0.25rem;
+.home-hero .avatar{
+  width: 92px;
+  height: 92px;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  flex: 0 0 auto;
 }
 .home-hero .avatar{
   width: 56px;
