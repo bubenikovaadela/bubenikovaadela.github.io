@@ -106,8 +106,8 @@ pre{
   flex: 0 0 auto;
 }
 .home-hero .avatar{
-  width: 56px;
-  height: 56px;
+  width: 90px;
+  height: 120px;
   border-radius: 999px;
   object-fit: cover;
   border: 1px solid var(--line);
@@ -115,7 +115,7 @@ pre{
 }
 @media (max-width: 520px){
   .home-hero{ flex-direction: column; }
-  .home-hero .avatar{ width: 96px; height: 96px; }
+  .home-hero .avatar{ width: 90px; height: 120px; }
 }
 
 .site-footer{
