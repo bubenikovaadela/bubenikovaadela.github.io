@@ -1,0 +1,115 @@
+:root{
+  --max: 46rem;
+  --pad: 1.25rem;
+  --fg: #111;
+  --muted: #666;
+  --bg: #fff;
+  --line: #e6e6e6;
+  --link: #111;
+  --link-hover: #000;
+  --font: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+*{ box-sizing: border-box; }
+html,body{ height:100%; }
+body{
+  margin:0;
+  font-family: var(--font);
+  color: var(--fg);
+  background: var(--bg);
+  line-height: 1.6;
+}
+
+.wrap{
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 var(--pad);
+}
+
+.site-header{
+  border-bottom: 1px solid var(--line);
+  padding: 1.25rem 0;
+}
+
+.brand .title{
+  font-weight: 650;
+  text-decoration: none;
+  color: var(--fg);
+}
+.brand .tagline{
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-top: 0.15rem;
+}
+
+.nav{
+  display:flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+.nav-link{
+  text-decoration: none;
+  color: var(--muted);
+  border-bottom: 1px solid transparent;
+}
+.nav-link:hover{
+  color: var(--fg);
+  border-bottom-color: var(--fg);
+}
+
+.content{
+  padding: 1.75rem var(--pad);
+}
+
+a{ color: var(--link); }
+a:hover{ color: var(--link-hover); }
+
+h1,h2,h3{
+  line-height: 1.25;
+  margin: 1.25rem 0 0.75rem;
+}
+h1{ font-size: 1.65rem; }
+h2{ font-size: 1.2rem; margin-top: 2rem; }
+h3{ font-size: 1.05rem; margin-top: 1.5rem; }
+
+hr{
+  border:0;
+  border-top: 1px solid var(--line);
+  margin: 2rem 0;
+}
+
+.post-meta{
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-bottom: 1.25rem;
+}
+.post-meta .sep{ margin: 0 0.35rem; }
+
+ul{ padding-left: 1.1rem; }
+
+code, pre{
+  font-family: var(--mono);
+}
+pre{
+  padding: 1rem;
+  border: 1px solid var(--line);
+  overflow:auto;
+}
+
+.site-footer{
+  border-top: 1px solid var(--line);
+  padding: 1.25rem 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+.footer-line a{
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.footer-line a:hover{
+  color: var(--fg);
+  border-bottom-color: var(--fg);
+}

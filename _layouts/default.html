@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <div class="brand">
+          <a class="title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+          <div class="tagline">{{ site.tagline }}</div>
+        </div>
+        <nav class="nav">
+          {% for item in site.nav %}
+            <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div class="footer-line">
+          © {{ "now" | date: "%Y" }} {{ site.author.name }} · <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

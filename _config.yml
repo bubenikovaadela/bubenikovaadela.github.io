@@ -1,0 +1,51 @@
+title: "Adela Bubenikova"
+tagline: "Neuroscience, writing, photography"
+description: "Neuroscience research notes, essays, and photography by Adela Bubenikova."
+# Set these once you have a domain:
+# url: "https://adela.blog"
+# baseurl: ""
+
+author:
+  name: "Adela Bubenikova"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /blog/:year/:month/:day/:title/
+
+# Simple navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Writing"
+    url: "/writing/"
+  - title: "Photography"
+    url: "/photography/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Optional: make a "photo essays" collection (posts-like, separate from /blog/)
+collections:
+  photo_essays:
+    output: true
+    permalink: /photos/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "photo_essays"
+    values:
+      layout: "post"
