@@ -1,5 +1,5 @@
 ---
-title: "The Risk of Stillness"
+title: "The Risk of Stillness."
 date: 2026-07-26
 categories: [essays]
 ---
