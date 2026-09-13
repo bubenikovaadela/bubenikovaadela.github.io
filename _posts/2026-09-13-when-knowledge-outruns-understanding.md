@@ -1,6 +1,6 @@
 ---
 title: "When Knowledge Outruns Understanding."
-date: 2025-12-20 08:00:00 +0100
+date: 2026-09-13 08:00:00 +0100
 categories: [essays]
 ---
 
