@@ -3,7 +3,7 @@ title: "Things I Keep Coming Back To."
 subtitle: "Notes on understanding, attention, luck, and other people."
 date: 2026-09-14 08:00:00 +0100
 categories: [essays]
-
+description: "Some things I have learned about understanding, attention, luck, ambition, and leaving parts of life unoptimised."
 ---
 
 I keep notes from books, papers, conversations and lectures, usually with much less context than I imagine I will need later. A sentence seems so obviously important at the time that I do not bother writing down why, months later I find it again and cannot reconstruct the argument around it. Most of these fragments disappear into the general sediment of things I once found interesting. A few keep returning.

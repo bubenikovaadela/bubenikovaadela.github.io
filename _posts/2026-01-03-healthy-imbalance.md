@@ -4,6 +4,7 @@ title: "Healthy Imbalance."
 date: 2026-01-03 12:00:00 +0100
 categories: [essay]
 lang: en
+description: "A note on homeostasis, obsession, and why some forms of imbalance may be necessary for a life to move."
 ---
 Balance.
 

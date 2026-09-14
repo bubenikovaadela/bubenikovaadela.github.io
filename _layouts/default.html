@@ -12,67 +12,62 @@
         } catch (e) {}
       })();
     </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   </head>
   <body>
-    <header class="site-header">
-      <div class="wrap">
-        <div class="header-row">
-          <div class="brand">
-            <a class="title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
-            <nav class="nav" aria-label="Primary navigation">
-              {% for item in site.nav %}
-                <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-              {% endfor %}
-            </nav>
-          </div>
+    <div class="site-shell">
+      <header class="site-header">
+        <div class="masthead-row">
+          <a class="site-name" href="{{ "/" | relative_url }}">{{ site.title }}</a>
           <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">☾</button>
         </div>
-        <hr class="header-rule">
-      </div>
-    </header>
+        <nav class="site-nav" aria-label="Primary navigation">
+          {% for item in site.nav %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+        <hr class="site-rule">
+      </header>
 
-    <main class="wrap content">
-      {{ content }}
-    </main>
+      <main class="site-content">
+        {{ content }}
+      </main>
 
-    <footer class="site-footer">
-      <div class="wrap">
-        <hr class="footer-rule">
-        <div class="footer-line">
-          © {{ "now" | date: "%Y" }} {{ site.author.name }} ·
-          <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
-        </div>
-      </div>
-    </footer>
+      <footer class="site-footer">
+        <hr>
+        <span>© {{ "now" | date: "%Y" }} {{ site.author.name }}</span>
+        <span class="footer-sep">·</span>
+        <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
+      </footer>
+    </div>
 
     <script>
       (function () {
         var button = document.querySelector(".theme-toggle");
         if (!button) return;
 
-        function currentTheme() {
+        function prefersDark() {
           var explicit = document.documentElement.dataset.theme;
-          if (explicit) return explicit;
-          return window.matchMedia &&
-            window.matchMedia("(prefers-color-scheme: dark)").matches
-              ? "dark"
-              : "light";
+          if (explicit) return explicit === "dark";
+          return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
         }
 
-        function updateIcon() {
-          button.textContent = currentTheme() === "dark" ? "☀" : "☾";
+        function render() {
+          button.textContent = prefersDark() ? "☀" : "☾";
         }
 
         button.addEventListener("click", function () {
-          var next = currentTheme() === "dark" ? "light" : "dark";
+          var next = prefersDark() ? "light" : "dark";
           document.documentElement.dataset.theme = next;
           try { localStorage.setItem("theme", next); } catch (e) {}
-          updateIcon();
+          render();
         });
 
-        updateIcon();
+        render();
       })();
     </script>
   </body>

@@ -2,6 +2,7 @@
 title: "The White Room and the Stone."
 date: 2026-05-29 08:00:00 +0100
 categories: [essays]
+description: "On medicine, work, suffering, and the strange relief of giving the mind something concrete to carry."
 ---
 
 I love medicine because it gives me a stone to push, and without that stone the mind becomes nothing but a hill beneath an indifferent sun, a place where the same thought must be carried upward each morning only to fall again by evening. There is no revelation at the summit, no voice, no judgment, no mercy. There is only the weight, the ascent, and the knowledge that the descent has already begun.

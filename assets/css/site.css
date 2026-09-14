@@ -1,148 +1,153 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;650;700&display=swap');
-
 :root {
-  --page-width: 690px;
+  --bg: #ffffff;
+  --text: #222222;
+  --muted: #707070;
+  --faint: #9a9a9a;
+  --line: #e3e3e3;
+  --link: #1d1d1d;
+  --measure: 680px;
   --pad: 22px;
-  --text: #202020;
-  --muted: #777;
-  --faint: #a0a0a0;
-  --line: #e7e7e7;
-  --bg: #fff;
-  --link: #1f1f1f;
-  --font: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
+
+* { box-sizing: border-box; }
 
 html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
 }
 
-* { box-sizing: border-box; }
-
 body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: var(--font);
-  font-size: 16.5px;
-  line-height: 1.61;
-  letter-spacing: -0.008em;
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.58;
+  letter-spacing: -0.006em;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
+::selection { background: #ece8df; }
+
 a {
   color: var(--link);
   text-decoration: underline;
-  text-decoration-color: #a8a8a8;
   text-decoration-thickness: 1px;
+  text-decoration-color: #9d9d9d;
   text-underline-offset: 2px;
 }
 
 a:hover { text-decoration-color: currentColor; }
 
-.wrap {
-  width: min(calc(100% - 2 * var(--pad)), var(--page-width));
+.site-shell,
+.article-shell {
+  width: min(calc(100% - 2 * var(--pad)), var(--measure));
   margin: 0 auto;
 }
 
-/* ---------- homepage / standard page header ---------- */
+.site-header { padding-top: 54px; }
 
-.site-header {
-  padding-top: 58px;
+.masthead-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
 }
 
-.site-title {
-  display: inline-block;
-  margin: 0;
+.site-name {
   color: var(--text);
-  font-size: 24px;
+  font-size: 23px;
+  font-weight: 600;
   line-height: 1.2;
-  font-weight: 650;
-  letter-spacing: -0.035em;
+  letter-spacing: -0.03em;
   text-decoration: none;
 }
 
+.site-name:hover { text-decoration: none; }
+
 .site-nav {
   display: flex;
-  align-items: center;
   flex-wrap: wrap;
-  gap: 18px;
-  margin-top: 8px;
+  gap: 17px;
+  margin-top: 9px;
   font-size: 15px;
 }
 
 .site-nav a {
   color: var(--text);
-  text-decoration: underline;
-  text-decoration-color: #b7b7b7;
-  text-underline-offset: 2px;
+  text-decoration-color: #aaa;
+}
+
+.theme-toggle {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  padding: 2px 0 2px 8px;
+  font: inherit;
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
 }
 
 .site-rule,
-.content-rule {
+.site-footer hr,
+.page-body > hr,
+.home-section + hr {
   border: 0;
   border-top: 1px solid var(--line);
 }
 
-.site-rule {
-  margin: 21px 0 0;
-}
+.site-rule { margin: 18px 0 0; }
 
-.content {
-  padding: 25px 0 62px;
-}
-
-/* ---------- typography ---------- */
+.site-content { padding: 25px 0 58px; }
 
 h1, h2, h3 {
   color: var(--text);
-  line-height: 1.2;
-  letter-spacing: -0.035em;
+  line-height: 1.22;
+  letter-spacing: -0.028em;
 }
 
 h1 {
-  margin: 0 0 17px;
-  font-size: 31px;
-  font-weight: 650;
+  margin: 0 0 18px;
+  font-size: 30px;
+  font-weight: 600;
 }
 
 h2 {
-  margin: 39px 0 12px;
-  font-size: 21px;
-  font-weight: 650;
+  margin: 34px 0 12px;
+  font-size: 20px;
+  font-weight: 600;
 }
 
 h3 {
-  margin: 30px 0 9px;
+  margin: 27px 0 10px;
   font-size: 17px;
-  font-weight: 650;
+  font-weight: 600;
 }
 
-p {
-  margin: 0 0 17px;
-}
+p { margin: 0 0 16px; }
 
 ul, ol {
   margin: 0 0 18px;
-  padding-left: 24px;
+  padding-left: 23px;
 }
 
-li {
-  margin: 5px 0;
-}
+li { margin: 5px 0; }
 
 hr {
   border: 0;
   border-top: 1px solid var(--line);
-  margin: 30px 0;
+  margin: 27px 0;
 }
 
 blockquote {
-  margin: 24px 0;
-  padding-left: 17px;
-  border-left: 2px solid #d8d8d8;
-  color: #4d4d4d;
+  margin: 22px 0;
+  padding-left: 16px;
+  border-left: 2px solid var(--line);
+  color: #4e4e4e;
 }
 
 code, pre {
@@ -151,84 +156,80 @@ code, pre {
 
 pre {
   overflow: auto;
-  padding: 14px 16px;
+  padding: 13px 15px;
   border: 1px solid var(--line);
   font-size: 14px;
   line-height: 1.5;
 }
 
-/* ---------- home ---------- */
+/* Homepage */
+.page--home .page-body { min-height: 60vh; }
 
-.page.home-page .page-title {
-  display: none;
-}
-
-.home-intro {
-  position: relative;
+.home-intro::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .home-photo {
   float: right;
-  width: 132px;
-  height: 156px;
+  width: 118px;
+  height: 145px;
   object-fit: cover;
-  margin: 2px 0 15px 28px;
+  object-position: center;
+  margin: 2px 0 14px 25px;
   border-radius: 2px;
 }
 
-.section-title {
-  margin-top: 0;
-  font-size: 20px;
-}
+.home-section h2 { margin-top: 0; }
 
 .essay-list {
-  list-style: none;
   margin: 0;
-  padding: 0;
+  padding-left: 21px;
 }
 
 .essay-item {
-  margin: 0 0 18px;
+  margin: 0 0 14px;
+  padding-left: 1px;
 }
 
-.essay-head {
-  line-height: 1.42;
-}
+.essay-line { line-height: 1.45; }
 
-.essay-title {
-  font-weight: 500;
-  text-decoration: underline;
-  text-decoration-color: #aaa;
-}
+.essay-title { font-weight: 500; }
 
 .essay-date {
-  margin-left: 3px;
   color: var(--muted);
-  font-size: 14.5px;
+  font-size: 14px;
   white-space: nowrap;
 }
 
-.essay-desc {
+.essay-description {
   margin: 2px 0 0;
-  color: #555;
-  font-size: 15px;
-  line-height: 1.5;
+  color: #4f4f4f;
+  font-size: 14.5px;
+  line-height: 1.48;
 }
 
-/* ---------- article layout ---------- */
+.inline-links { margin-bottom: 0; }
 
-.post-shell {
-  width: min(calc(100% - 2 * var(--pad)), var(--page-width));
-  margin: 0 auto;
-  padding: 36px 0 70px;
-}
+/* Standard pages */
+.page-body > :first-child { margin-top: 0; }
+.page-body > h2:first-child { margin-top: 0; }
 
-.post-topbar {
+/* Essays */
+.article-shell { padding: 30px 0 68px; }
+
+.article-tools {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  margin-bottom: 42px;
-  font-size: 14.5px;
+  gap: 13px;
+  margin-bottom: 34px;
+  font-size: 14px;
+}
+
+.article-tools .theme-toggle {
+  padding: 0;
+  font-size: 15px;
 }
 
 .back-link {
@@ -241,176 +242,127 @@ pre {
   text-underline-offset: 2px;
 }
 
-.theme-toggle {
-  appearance: none;
-  border: 0;
-  padding: 3px;
-  background: transparent;
-  color: #555;
-  font: inherit;
-  font-size: 17px;
-  line-height: 1;
-  cursor: pointer;
-}
+.post-header { margin-bottom: 27px; }
 
-.post-header {
-  margin-bottom: 29px;
-}
-
-.post-title {
-  margin: 0 0 10px;
-  font-size: clamp(29px, 5vw, 37px);
-  line-height: 1.11;
-  font-weight: 650;
-  letter-spacing: -0.045em;
+.post-header h1 {
+  margin-bottom: 8px;
+  font-size: clamp(30px, 5vw, 37px);
+  line-height: 1.12;
+  letter-spacing: -0.04em;
 }
 
 .post-subtitle {
-  margin: -1px 0 9px;
-  color: #4e4e4e;
-  font-size: 17px;
-  line-height: 1.5;
+  margin: -1px 0 8px;
+  color: #505050;
+  font-size: 16px;
+  line-height: 1.48;
 }
 
-.post-meta {
+.post-date {
+  margin: 0;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 13.5px;
 }
 
 .post-body {
-  font-size: 16.5px;
-  line-height: 1.64;
+  font-size: 16px;
+  line-height: 1.61;
 }
 
-.post-body > h1:first-child {
-  display: none;
-}
+/* If an old post repeats its title as Markdown H1, keep only the layout title. */
+.post-body > h1:first-child { display: none; }
 
 .post-body h2 {
-  margin-top: 46px;
-  font-size: 21px;
+  margin-top: 39px;
+  margin-bottom: 11px;
+  font-size: 20px;
+  line-height: 1.26;
 }
 
 .post-body h3 {
-  margin-top: 33px;
+  margin-top: 29px;
+  font-size: 17px;
 }
 
 .post-body img {
   display: block;
   max-width: 100%;
   height: auto;
-  margin: 28px auto;
+  margin: 25px auto;
 }
 
-/* numbered essay headings look like prose rather than cards */
-.post-body h2[id] {
-  padding-top: 1px;
-}
-
-/* ---------- normal pages ---------- */
-
-.page-title {
-  margin-bottom: 22px;
-}
-
-.page-body {
-  min-height: 40vh;
-}
-
-/* ---------- footer ---------- */
-
-.site-footer {
-  padding: 0 0 38px;
+.post-body .footnotes {
+  margin-top: 40px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
   color: var(--muted);
   font-size: 13.5px;
 }
 
-.footer-rule {
-  border: 0;
-  border-top: 1px solid var(--line);
-  margin: 0 0 16px;
-}
-
-.site-footer a {
+/* Footer */
+.site-footer {
+  padding-bottom: 35px;
   color: var(--muted);
+  font-size: 13px;
 }
 
-/* ---------- dark mode ---------- */
+.site-footer hr { margin: 0 0 14px; }
+.site-footer a { color: var(--muted); }
+.footer-sep { margin: 0 4px; }
 
+/* Dark theme */
 html[data-theme="dark"] {
-  --text: #e8e6e1;
-  --muted: #aaa7a0;
-  --faint: #7c7973;
-  --line: #34322f;
   --bg: #171717;
-  --link: #eeeae4;
+  --text: #e8e7e3;
+  --muted: #aaa7a0;
+  --faint: #77736d;
+  --line: #35332f;
+  --link: #eeece7;
 }
 
-html[data-theme="dark"] .essay-desc,
+html[data-theme="dark"] .essay-description,
 html[data-theme="dark"] .post-subtitle,
 html[data-theme="dark"] blockquote {
-  color: #bbb7b0;
+  color: #bbb8b1;
 }
 
 @media (prefers-color-scheme: dark) {
   html:not([data-theme="light"]) {
-    --text: #e8e6e1;
-    --muted: #aaa7a0;
-    --faint: #7c7973;
-    --line: #34322f;
     --bg: #171717;
-    --link: #eeeae4;
+    --text: #e8e7e3;
+    --muted: #aaa7a0;
+    --faint: #77736d;
+    --line: #35332f;
+    --link: #eeece7;
   }
 
-  html:not([data-theme="light"]) .essay-desc,
+  html:not([data-theme="light"]) .essay-description,
   html:not([data-theme="light"]) .post-subtitle,
   html:not([data-theme="light"]) blockquote {
-    color: #bbb7b0;
+    color: #bbb8b1;
   }
 }
 
-/* ---------- mobile ---------- */
-
-@media (max-width: 600px) {
-  :root { --pad: 19px; }
+@media (max-width: 560px) {
+  :root { --pad: 18px; }
 
   body {
-    font-size: 16px;
-    line-height: 1.6;
+    font-size: 15.75px;
+    line-height: 1.58;
   }
 
-  .site-header {
-    padding-top: 34px;
-  }
-
-  .site-title {
-    font-size: 22px;
-  }
-
-  .site-nav {
-    gap: 14px;
-    font-size: 14.5px;
-  }
-
-  .content {
-    padding-top: 22px;
-  }
+  .site-header { padding-top: 32px; }
+  .site-name { font-size: 21px; }
+  .site-nav { gap: 14px; font-size: 14.5px; }
+  .site-content { padding-top: 22px; }
 
   .home-photo {
-    width: 105px;
-    height: 128px;
-    margin-left: 19px;
+    width: 100px;
+    height: 124px;
+    margin-left: 18px;
   }
 
-  .post-shell {
-    padding-top: 25px;
-  }
-
-  .post-topbar {
-    margin-bottom: 33px;
-  }
-
-  .post-title {
-    font-size: 30px;
-  }
+  .article-shell { padding-top: 24px; }
+  .article-tools { margin-bottom: 28px; }
+  .post-header h1 { font-size: 29px; }
 }

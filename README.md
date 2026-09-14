@@ -1,8 +1,10 @@
-# Adela — minimal Jekyll site
+# Adela Bubenikova — personal site
 
-This is a minimal, text-first Jekyll site intended for GitHub Pages via GitHub Actions.
+A minimal Jekyll site for GitHub Pages.
 
 ## Deploy
-1. Upload all files to your repository.
-2. GitHub → Settings → Pages → Source = GitHub Actions.
-3. Push to `main`.
+1. Upload the contents of this folder to the root of `bubenikovaadela.github.io`.
+2. Commit to `main`.
+3. In GitHub → Settings → Pages, use GitHub Actions / the repository's existing Pages workflow.
+
+The site is deliberately text-first: essays, research, publications, and contact information.

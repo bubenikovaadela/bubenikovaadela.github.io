@@ -2,6 +2,7 @@
 title: "The Risk of Stillness."
 date: 2026-07-26
 categories: [essays]
+description: "On change, fear, and the quieter danger of staying where the world already makes sense."
 ---
 
 Human beings fear change because change promises nothing. It opens a door and refuses to show what lies beyond it. It asks us to abandon an order we understand without offering any assurance that the next one will be kinder. Perhaps it will not. Perhaps beyond the door there is no freedom, only another form of solitude.

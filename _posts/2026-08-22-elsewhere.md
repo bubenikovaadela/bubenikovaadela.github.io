@@ -2,6 +2,7 @@
 title: "Elsewhere."
 date: 2026-08-22 14:58:00 +0100
 categories: [essays]
+description: "On home, distance, people, and the possibility that belonging is less geographical than we pretend."
 ---
 
 The longer I remain away, the less persuaded I am that home is a place at all. Increasingly, I understand it as a condition of consciousness, a kind of way of inhabiting the world without needing to possess a fragment of it and call that fragment mine. It is remarkable how quickly the apparent permanence of things begins to dissolve once one leaves them behind. Language, streets, familiar faces, the rhythm of a day, the tacit geography of what is near and what is distant, what is possible and what belongs to fantasy, all of it reveals itself as contingent. One crosses a border, changes a city, learns another cadence of life, and suddenly discovers that much of what had seemed like reality itself was only one local arrangement of reality, one interpretation among many.

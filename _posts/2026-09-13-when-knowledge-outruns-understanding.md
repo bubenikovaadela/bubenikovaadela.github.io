@@ -2,6 +2,7 @@
 title: "When Knowledge Outruns Understanding."
 date: 2026-09-13 08:00:00 +0100
 categories: [essays]
+description: "On AI, mathematics, and what science gains when capability begins to move faster than explanation."
 ---
 
 There is something faintly comic about the current debate over AI and mathematics. A group of distinguished mathematicians[^1] warns that machines may soon begin solving important problems too quickly. Open questions which have sustained generations of ideas, methods and mathematicians may disappear before the community has had time to extract from them what really matters. Michael Eisen[^2] then takes almost the same argument and rewrites it in the language of cancer biology. AI begins curing cancers too quickly, producing too many cancer free patients and depriving the field of the fertile intellectual ground on which future generations might otherwise have worked.

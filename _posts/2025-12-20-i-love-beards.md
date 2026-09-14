@@ -2,6 +2,7 @@
 title: "Beards."
 date: 2025-12-20 08:00:00 +0100
 categories: [essays]
+description: "On interpretation, uncertainty, and the embarrassing fact that an observer is never separate from what she sees."
 ---
 
 I love beards.
