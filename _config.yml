@@ -16,9 +16,7 @@ plugins:
 permalink: /blog/:year/:month/:day/:title/
 
 nav:
-  - title: "Home"
-    url: "/"
-  - title: "Blog"
+  - title: "Essays"
     url: "/blog/"
   - title: "Research"
     url: "/research/"
