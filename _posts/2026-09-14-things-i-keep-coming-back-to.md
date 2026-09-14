@@ -8,11 +8,10 @@ categories: [essays]
 
 *On understanding, attention, chance, and the danger of making everything useful*
 
-I keep notes from books, papers, conversations, lectures, margins, emails to myself, and the occasional sentence copied down with such confidence that I apparently felt no need to record why it mattered. Months later, I often find these fragments stripped of their original context. A line that once seemed self-explanatory becomes opaque; a question that felt urgent has lost the argument around it; an idea I was certain I would remember survives only as a sentence with no address.
+I keep far too many notes from books, papers, essays and conversations. They are rarely proper summaries, I usually copy one sentence that made me stop, add no context, and trust that a future version of me will know why it mattered, haha.
 
-And yet some thoughts persist. They return in different forms, from different people, sometimes years apart. They are rarely the thoughts that offer the cleanest answers. More often, they are the ones that complicate another idea I had begun to trust too much.
+I went back through some of them recently and realised that the same questions keep reappearing. Not in a neat way, and definitely not in a way that adds up to a philosophy. More like recurring irritations.
 
-I have started to think that this is why they remain useful. Not because they organise life into a system, but because they interrupt one another.
 
 ## Understanding is not recognition
 
