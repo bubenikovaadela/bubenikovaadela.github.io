@@ -6,6 +6,8 @@ categories: [essays]
 
 ---
 
+*Notes on understanding, attention, luck, and other people*
+
 I keep far too many notes from books, papers, essays and conversations. They are rarely proper summaries, I usually copy one sentence that made me stop, add no context, and trust that a future version of me will know why it mattered, haha.
 
 I went back through some of them recently and realised that the same questions keep reappearing. Not in a neat way, and definitely not in a way that adds up to a philosophy. More like recurring irritations.
