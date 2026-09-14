@@ -6,13 +6,11 @@ categories: [essays]
 
 ---
 
-# Things I Keep Coming Back To
-
-*Some working rules for thinking, choosing, and not turning a life into a project*
+*Some working "rules" for thinking, choosing, and not turning a life into a project*
 
 I keep notes badly. They accumulate in margins, documents, screenshots, emails to myself, on the backs of conference programmes, and in files whose names suggest I once believed there would be a system. Most are nearly useless when I return to them. A sentence survives, but not the question that made it matter. Something is underlined three times and I can no longer remember why.
 
-A few ideas behave differently. They survive the loss of context. I encounter them again in another book, in someone else’s language, or in a situation that seems to have nothing to do with the one in which I first found them. Over time, some of them have become less like beliefs and more like working rules: not commandments, and certainly not a philosophy, but small pieces of intellectual know-how that seem to remain useful across different problems.
+A few ideas behave differently. They survive the loss of context. I encounter them again in another book, in someone else’s language, or in a situation that seems to have nothing to do with the one in which I first found them. Over time, some of them have become less like beliefs and more like working rules; not commandments, and certainly not a philosophy, but small pieces of intellectual know-how that seem to remain useful across different problems.
 
 The important part is that they do not fit together perfectly. Some tell me to go deeper; others to move on. Some favour concentration; others exposure. Some make ambition seem necessary; others make it look faintly dangerous. I trust them more for the friction.
 
