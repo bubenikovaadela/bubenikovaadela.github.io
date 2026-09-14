@@ -6,167 +6,112 @@ categories: [essays]
 
 ---
 
-*Some working "rules" for thinking, choosing, and not turning a life into a project*
+I keep notes from books, papers, conversations and lectures, usually with much less context than I imagine I will need later. A sentence seems so obviously important at the time that I do not bother writing down why, months later I find it again and cannot reconstruct the argument around it. Most of these fragments disappear into the general sediment of things I once found interesting. A few keep returning.
 
-I keep notes badly. They accumulate in margins, documents, screenshots, emails to myself, on the backs of conference programmes, and in files whose names suggest I once believed there would be a system. Most are nearly useless when I return to them. A sentence survives, but not the question that made it matter. Something is underlined three times and I can no longer remember why.
+I have started to trust those more than the ideas that arrive fully formed. They tend to survive changes of context. I meet them again in another field, or in somebody else’s language, or in a situation that gives them a different meaning. Over time they have become less like conclusions and more like working rules: imperfect, sometimes contradictory, but useful enough to keep nearby.
 
-A few ideas behave differently. They survive the loss of context. I encounter them again in another book, in someone else’s language, or in a situation that seems to have nothing to do with the one in which I first found them. Over time, some of them have become less like beliefs and more like working rules; not commandments, and certainly not a philosophy, but small pieces of intellectual know-how that seem to remain useful across different problems.
+Happy to share them!
 
-The important part is that they do not fit together perfectly. Some tell me to go deeper; others to move on. Some favour concentration; others exposure. Some make ambition seem necessary; others make it look faintly dangerous. I trust them more for the friction.
+## 1. Understanding something is different from being able to continue
 
-## 1. If you cannot reconstruct it, you probably do not understand it yet
+One of the distinctions I return to most often comes from Nabeel Qureshi’s *How to Understand Things*: the difference between following an explanation and possessing it. He describes people who keep working on a problem after they have already found the answer, trying another proof, another representation, another route through the same structure. I like this because it exposes how easily we mistake fluency for understanding.
 
-Nabeel Qureshi’s *How to Understand Things* keeps returning to a distinction I find increasingly important: the difference between following an explanation and possessing it.[1] He describes people who do not stop once they have reached the right answer. They look for another derivation, another representation, another way of seeing the same structure. The point is not redundancy. Each representation removes a different place to hide.
+A concept becomes comfortable before it becomes ours. We recognise the diagram, know the vocabulary, can follow the sequence of an argument and answer the expected question. At that point it is very easy to move on. Rozenblit and Keil’s work on the *illusion of explanatory depth* captures the same weakness from another direction: people routinely believe they understand mechanisms in far greater detail than they can actually explain them. The gap becomes obvious only when the support is removed.
 
-This matters because familiarity is an extraordinarily convincing counterfeit of understanding. A diagram seen often enough acquires the authority of landscape. Technical vocabulary becomes comfortable in the mouth. An argument can be followed from beginning to end without resistance, and the mind interprets the absence of friction as evidence that it understands.
+So I increasingly try to test ideas without the source in front of me. Can I redraw the mechanism? Can I explain it without borrowing the original terminology? Can I predict what changes if one assumption is removed? Writing is useful for the same reason. A thought can remain beautifully vague in the mind; on the page, missing transitions become visible. None of this means waiting for perfect understanding before moving on. In medicine, research and ordinary life, that would be impossible. The difficulty is recognising when “I understand this well enough” is genuine judgement and when it is simply impatience in a more respectable form.
 
-Rozenblit and Keil gave one form of this error a name: the *illusion of explanatory depth*.[2] We routinely believe we understand mechanisms in far greater detail than we can actually explain them. A bicycle seems obvious until the drawing begins. Scientific concepts are no different; they simply come with better camouflage.
+## 2. Sometimes the problem is the representation
 
-A useful test is therefore to remove the source. Redraw the mechanism. Explain it without its native vocabulary. Predict what should happen if one assumption changes. Try to derive the same conclusion from another direction. If the idea collapses as soon as the original sentence disappears, much of the understanding was still sitting on the page.
+Related to this is something much more practical: when I am stuck, changing the representation often helps more than pushing harder in the same one. A dense paragraph may become obvious once drawn. A statistical association becomes more interesting when translated into the biological process that could have produced it. An equation can become intuitive when turned into a physical story, while an apparently intuitive story may become much less convincing when forced into explicit assumptions.
 
-There is a reason writing is so useful here. Thoughts are hospitable places for ambiguity. Sentences are less forgiving. On the page, the missing transition acquires a shape.
+This sounds almost trivial, but I think technical fields encourage the opposite habit. Once we learn the standard language of a discipline, its representations begin to feel inevitable. The notation disappears into the background. Categories harden. We forget that they are tools rather than the structure of reality itself.
 
-The goal is not perfect understanding. That would make medicine, research, and probably ordinary life impossible. The more difficult skill is knowing when *I understand this well enough to continue* is judgement and when it is simply impatience. The word *enough* carries most of the danger.
+For the same reason, I have become more sympathetic to thinking briefly before reading. Not instead of reading, obviously, but before importing the field’s vocabulary. What would I expect from the observations alone? What categories would I invent? What mechanism would I propose? Most of these first models are wrong, but discovering where they fail is often more memorable than simply receiving the accepted explanation. Once a category has a name, it becomes surprisingly difficult to remember what the problem looked like before the category existed.
 
-## 2. Change the representation before assuming the problem is hard
+## 3. Good questions often need to remain questions for a while
 
-One of the most practical ideas in *How to Understand Things* is that getting closer to a problem often means changing its form.[1] Draw what you have been reading. Turn prose into a mechanism. Turn a mechanism into a set of predictions. Explain a statistical result as if it were a physical process. Replace the notation and see whether the idea survives.
+Research trains us to convert curiosity into something executable. A question becomes a protocol, an endpoint, an inclusion criterion, a model. This is necessary, but I think it can happen too quickly. Some questions become smaller when forced into project form before they have had time to accumulate enough structure.
 
-A surprising amount of difficulty belongs not to the problem itself but to the representation in which we first encountered it.
+I have a few questions that have stayed in the background for much longer than any single project. They collect things. A paper from another field suddenly belongs to them; a conversation changes their shape; a method appears that makes a previously vague idea more tractable. By the time the project becomes obvious, the thinking that made it possible has often been happening for years.
 
-This is particularly easy to forget in technical fields, because formal language can become so familiar that it feels inevitable. But notation, diagrams, categories and even accepted terminology are choices. They illuminate some relationships and hide others. Learning a field therefore means more than becoming fluent in its standard representation; eventually it means being able to leave it.
+This is what I take from Hamming’s advice about keeping important problems in mind. I do not interpret it as a demand to work only on grand problems. Most useful science is incremental, and much of it is technically unglamorous. The more important lesson is not to let the availability of a method determine the scale of the question. There is value in allowing a question to stay slightly unresolved until it becomes clear what, exactly, would make it worth answering.
 
-This is also why I increasingly like thinking before reading, at least briefly. Before opening the review, before learning the accepted taxonomy, before importing somebody else’s categories, it is sometimes useful to ask what model I would have built from the observations alone. Most such models will be wrong. That is not a defect. Discovering precisely where one’s own model fails produces a different kind of knowledge from merely receiving the correct one.
+## 4. Productivity can conceal drift
 
-The risk, of course, is romanticising independent thought into reinvention. There is no virtue in spending six months rediscovering something disproved forty years ago. The point is smaller: preserve a short interval in which the problem belongs to you before it acquires the field’s vocabulary.
+A full day is psychologically satisfying because it leaves evidence. Emails were answered, references organised, analyses completed, meetings held, forms submitted. Nothing looks wasted. Yet I know many days that were productive by every visible measure and still left the most important problem untouched.
 
-Once a category has a name, it becomes surprisingly difficult to remember that the world existed before the category did.
+This is partly an attention problem. Sophie Leroy’s work on *attention residue* explains why moving between unfinished tasks is not cognitively clean: some part of the previous task remains active, reducing what is available for the next one. But there is also a more subtle issue. Small tasks reward completion, whereas difficult work often rewards you with a better description of why the problem is difficult. One produces closure; the other often produces more uncertainty.
 
-## 3. Attack your favourite explanation first
+I have therefore become less interested in whether a day was busy and more interested in whether anything important became different. Did an argument become clearer? Did a problem change shape? Did I learn something that changes what I should do next? Productivity and direction overlap, but much less reliably than I used to think.
 
-Feynman’s warning that the first principle is not to fool yourself is repeated so often that it risks becoming decorative.[3] Its real demand is much harsher.
+## 5. The method can quietly choose the question
 
-We are not equally sceptical of all ideas. We interrogate conclusions we dislike and become strangely relaxed around the ones we want to be true. Intelligence does not solve this problem. If anything, it can make it worse by producing better defences.
+Once you become good at something, you start seeing more reasons to do it. A group with a strong method naturally finds questions suited to that method; a dataset creates a field of apparently reasonable analyses around itself. This is efficient, and often productive, but it also creates a bias that is difficult to see from inside competence.
 
-So when an explanation feels particularly satisfying, I try to become suspicious of the satisfaction itself.
+Hamming’s question about important problems is useful here, but I prefer a smaller version: if I became exceptionally good at doing exactly what I am doing now, where would it take me? That question is less dramatic and more diagnostic. It separates success from direction.
 
-What is the strongest alternative account? Which observation would be awkward for my model? What would I expect to see if the opposite were true? Which variable am I treating as causal because the story is elegant? What result would actually make me change my mind?
+The uncomfortable possibility is that one can become very successful along a trajectory one never consciously chose. A project can be beautifully executed and still be answering a question that has become smaller than the machinery built around it. The method is not the problem; the problem is forgetting to ask whether it still serves the question, or whether the question has gradually been selected because it serves the method.
 
-The useful habit is not generic doubt. Generic doubt is cheap and eventually paralysing. The useful habit is asymmetrical: apply the greatest pressure where belief comes most easily.
+## 6. The room changes what you are willing to think
 
-This is one reason good disagreement is so valuable. Another mind is often able to see the assumption that has become invisible inside one’s own reasoning. But the quality of disagreement matters. A weak objection teaches very little; defeating it can even increase confidence for the wrong reason. The interesting objection is the one that forces the structure of the argument to change.
+I used to think mentorship was mostly about advice. Now I think atmosphere may matter more. Some people make you more willing to say the unfinished thing. Some rooms make uncertainty feel ordinary; others make everyone slightly more careful, slightly more polished, slightly less willing to reveal the point at which they stopped understanding.
 
-If an idea survives only because its opponents have been modelled badly, it has not survived very much.
+The effect is difficult to measure, but I suspect it is enormous. Intellectual culture determines which questions are socially cheap enough to ask, how early an idea can be exposed to criticism, and whether disagreement is treated as something useful or something embarrassing. There are rooms full of brilliant people that somehow make thought smaller, and others in which one naïve question enlarges the whole conversation.
 
-## 4. Choose the question before you optimise the project
+Good mentors often change this before they give any concrete advice. They take a question seriously enough that you begin to take your own thinking more seriously. Eventually there is an uncomfortable reversal: we become part of the intellectual environment of other people too. I increasingly care not only about whether I know enough, but about whether people around me become more curious, more precise, and less afraid to be wrong.
 
-Richard Hamming asked scientists which problems in their fields were genuinely important and then why they were not working on them.[4] Quoted in isolation, the question can sound theatrical. In practice, I think its usefulness is quieter.
+## 7. Luck compounds
 
-Research offers an almost infinite supply of respectable next steps. A variable can be added, a cohort expanded, a model refined, a technique applied to an adjacent problem. Good work is often exactly this: incremental, patient, technically unglamorous. The difficulty is that competence develops momentum. The better we become at a method, the more naturally the world presents itself as a series of reasons to use it.
+Retrospective stories tend to remove contingency. The delayed train, the accidental introduction, the person who happened to read something, the institution that made one path visible and another invisible all disappear. What remains is a cleaner story of effort and ability.
 
-Eventually, the tool begins choosing the question.
+Merton’s work on cumulative advantage makes that story harder to sustain. Opportunities reproduce themselves. Recognition makes later recognition easier; access produces further access; one invitation changes the rooms into which a person may later be invited. Small asymmetries do not remain small simply because they began that way.
 
-A simple corrective is to ask: *If I became exceptionally good at doing exactly what I am doing now, where would it take me?*
+This does not make effort irrelevant. I think the argument that achievement must be either earned or lucky is badly framed. Someone can have worked extraordinarily hard and still owe something decisive to circumstances they did not create. Preparation complicates this further, because the same opportunity is not the same event for everyone. A paper, a meeting or an unexpected result becomes useful only in relation to whatever has been prepared to notice it. Luck is partly what happens, and partly what you are able to recognise when it does.
 
-Not *Would I succeed?* Success is compatible with astonishing amounts of drift. The more useful question is what kind of destination is already contained in the trajectory.
+## 8. Protect attention, but not so well that nothing can reach you
 
-Some problems are too large to enter. Others are so tractable that their tractability becomes the main reason they are studied. The interesting region lies somewhere between importance and purchase: a question substantial enough to matter, but with an edge one can actually grasp.
+Deep work is fashionable enough that protecting attention can begin to sound like a moral virtue. Sometimes it is simply necessary. There are problems that cannot be solved in fragments, and periods of work that require a closed door.
 
-And not every question needs to become a project immediately. Some are better carried for a while. They gather observations, people, methods and accidents around them. A conversation attaches itself to the question; then a paper from another field; then a technique that did not exist when the question first appeared.
+Hamming’s observation about Bell Labs complicates the lesson nicely. People with closed doors often got more immediate work done; people with open doors were interrupted more, but also knew more about what others were doing and which problems were becoming interesting. I like this because it refuses the easy conclusion.
 
-By the time the project becomes obvious, the question may already have been working for years.
+The closed door protects depth, but the open door admits information you did not know to seek. A completely permeable mind never goes very far into anything; a perfectly defended one can become extremely efficient inside a shrinking map. I no longer think the solution is “balance” in the abstract. The distinction is temporal. Some periods should be narrow and protected; others should be deliberately porous. The important thing is remembering that neither state is a personality.
 
-## 5. Put yourself in rooms that change what feels normal
+## 9. Some things should remain useless
 
-Retrospective stories dislike contingency. We remove the delayed train, the accidental introduction, the person who happened to read the draft, the institution that made one ambition imaginable and another almost invisible. What remains is a cleaner sequence: ability, effort, result.
+This may be the idea I think about most now, perhaps because I am worst at it. Ambitious people are very good at giving everything a function. Exercise improves cognition, sleep consolidates memory, reading fiction increases empathy, walking restores attention, friendship protects mental health, hobbies prevent burnout. Most of these claims are probably true. Taken together, they still make me uneasy.
 
-The cleaner story is not necessarily false. It is simply compressed.
+Josef Pieper’s idea of “total work” is useful here because the problem is not simply working too much. It is allowing the logic of work to become the language through which everything else must justify itself. A walk becomes recovery; a novel becomes perspective; dinner becomes connection; even doing nothing is allowed if it improves tomorrow.
 
-Merton’s account of cumulative advantage in science is useful because it makes the compression harder to sustain.[5] Advantages reproduce themselves. Recognition makes later recognition easier; access creates further access; one invitation changes the rooms into which a person may later be invited. Small asymmetries do not remain small merely because they began that way.
+Nothing has disappeared, which is why the change is easy to miss. There can still be books, friends, mountains, music and travel. But each acquires a small invisible arrow pointing elsewhere. I increasingly want some things to resist this conversion: books that never become references, conversations that produce no opportunity, interests I remain mediocre at without turning them into another project of improvement. Not because purposelessness is noble, but because some things become smaller the moment they are required to defend their value.
 
-This does not negate effort. A person can have worked ferociously and still owe something decisive to circumstances they did not create. The two facts can occupy the same life.
+## 10. Ambition can enlarge a life and then quietly begin to narrow it
 
-The practical consequence, for me, is less “network more” than “pay attention to rooms”. Some environments enlarge the world. They contain people who ask questions from angles one had not considered, or who treat uncertainty as a normal condition of thought rather than a failure of performance. Other rooms are full of intelligent people and somehow make thought smaller. Everyone becomes careful. Ideas arrive polished, if they arrive at all. Nobody wants to be the first person not to understand.
+I do not distrust ambition. Many of the things I value most would not exist without it. Ambition can make you leave familiar places, learn difficult things, meet people you would never otherwise encounter, and spend years becoming capable of doing something that once felt remote. There is a version of ambition that genuinely makes the world larger.
 
-The room changes what feels permissible.
+What interests me is the possibility that, after a certain point, the direction can reverse. The life that once fed the ambition begins to be evaluated according to whether it serves it. Ordinary choices acquire a secondary calculation: is this worth the time, will this help, should I be doing something else? Nothing necessarily looks wrong from the outside. In fact, things may be going extremely well.
 
-Good mentors often work in exactly this way. They may not give an answer or a project. Sometimes they simply take a question seriously enough that you begin to take your own thinking more seriously.
+That is what makes the transition difficult to notice. The CV can expand while the number of things allowed to matter on their own terms contracts. I do not think the answer is to become less ambitious. I think it is to notice when ambition stops enlarging life and starts asking the rest of life to justify itself.
 
-There is a reciprocal obligation hidden inside that observation: we are also rooms for other people.
+## 11. Good principles need other principles nearby to stop them
 
-## 6. Alternate between the closed door and the open one
+For a long time, I thought useful ideas should eventually fit together. Now I am less interested in coherence. Most good advice becomes bad when applied without limit, and almost every virtue has a failure mode that looks very similar from the inside.
 
-Attention has obvious enemies. Notifications arrive. Tabs multiply. A five-minute task occupies precisely the part of the day in which a difficult thought might otherwise have begun to take shape.
+Understand things deeply, but eventually move. Be sceptical, but eventually believe something. Protect your attention, but remain reachable. Work on important problems, but do not turn everything important into work. Be ambitious, but keep parts of life outside ambition’s jurisdiction. Persist, but learn when persistence has become attachment to a bad model.
 
-Sophie Leroy’s work on *attention residue* gives a useful account of why switching is never clean.[6] We move on before the mind has entirely left what came before. The result is a kind of cognitive wake: invisible, but sufficient to disturb whatever follows.
+Perhaps this is why I keep returning to these ideas rather than trying to resolve them. I do not want one principle strong enough to organise everything. I would rather keep several good ones close enough that they can interfere with one another. One pushes; another restrains. One closes the door; another reminds me that a door exists.
 
-I recognise this most clearly in days that are impossible to accuse of laziness. Messages answered, papers downloaded, small analyses completed, arrangements made. Everything on the list is legitimate. By evening, the only thing that required uninterrupted thought is exactly where it was in the morning.
-
-So the door closes.
-
-Hamming, inconveniently, noticed the other side at Bell Labs. People with closed doors often completed more immediate work; people with open doors were interrupted more, but also knew what was happening elsewhere and which problems were beginning to matter.[4]
-
-This is not a problem solved by finding the perfect midpoint. The balance is temporal.
-
-Some hours should be almost aggressively defended. Others should contain enough permeability for another person’s question, an irrelevant paper, a badly timed conversation or an unexpected idea to enter. A completely permeable mind cannot go very far into anything. A perfectly defended one risks becoming excellent inside a shrinking map.
-
-The question is not whether to close the door. It is whether you remember to open it again.
-
-## 7. Keep parts of your life useless
-
-The idea I am most suspicious of is also the one I obey most readily: that things become more defensible when they are useful.
-
-Exercise improves cognition. Sleep consolidates memory. Reading fiction increases empathy. Friendship protects mental health. Walking restores attention. Hobbies prevent burnout. Rest improves performance. Almost every pleasurable part of a life can now be described as an intervention for becoming more effective at the less pleasurable parts.
-
-Most of these claims may even be true. That is what makes the pattern difficult to notice.
-
-Josef Pieper, writing about leisure, worried about a world of “total work”: not simply one in which people work too much, but one in which the logic of work becomes the language through which everything else must justify itself.[7] Leisure need not disappear. It can remain everywhere, provided it can explain what it is for.
-
-A walk becomes recovery. A novel becomes perspective. Dinner becomes connection. Sleep becomes optimisation. Even doing nothing becomes acceptable if it returns us restored enough to resume doing something.
-
-The activities have not changed. Only their direction has. They now point away from themselves.
-
-This worries me more than ordinary busyness because instrumentality can colonise a life while leaving all of its visible parts intact. There may still be books, friends, mountains, music, dinners, holidays. But each has acquired a small invisible arrow pointing elsewhere.
-
-Some things become thinner when required to justify themselves.
-
-I want books that never become citations, conversations whose value would not survive being translated into a biography, and interests pursued badly enough that they never become another arena for performance. Not because purposelessness is inherently noble, but because some things should be allowed to remain ends rather than means.
-
-Ambition can enlarge a life. It can organise years of effort around something difficult enough to deserve them. The problem begins when seriousness becomes imperial: when the life no longer gives energy to the ambition, and the life itself begins to be judged according to whether it serves it.
-
-At that point even rest becomes work in civilian clothes.
-
-## 8. Let your principles contradict one another
-
-The ideas I trust most are not compatible enough to become a system.
-
-Qureshi makes me want to go closer, to distrust explanations I cannot reconstruct; medicine and ordinary life require action before understanding is complete. Feynman makes doubt look like integrity; too much doubt becomes a sophisticated way never to commit. Hamming makes important problems feel urgent; Pieper makes me suspicious of a world in which everything important must become work. Attention needs a closed door; discovery keeps arriving through the one left open. Merton makes luck impossible to edit out of the story; preparation makes luck insufficient as an explanation.
-
-For a long time, I thought this was a defect. Good principles, I assumed, should eventually fit together.
-
-Now I think friction may be part of their function.
-
-Almost every virtue has a shadow that appears only when the virtue succeeds too well. Persistence becomes loyalty to a bad model. Rigour becomes fear. Focus becomes blindness. Openness becomes noise. Preparation becomes postponement. Ambition, having enlarged the world, can begin to narrow it again.
-
-The transition is difficult to see because nothing announces it. The same word remains on both sides.
-
-So I no longer want a single principle strong enough to organise everything. I would rather keep several good ideas close enough that they can interfere with one another: one to push, another to restrain; one to close the door, another to remind me that a door exists.
-
-Perhaps that is what the notes are for.
-
-Not a system. More like a set of counterweights, preserved for the moment when one explanation has begun to feel too complete.
-
----
+That is probably what these notes have become for me. Not a philosophy, exactly. More like a collection of counterweights that become useful again whenever one explanation starts to feel a little too complete.
 
 ### References
 
-1. Qureshi NS. *How To Understand Things*. 2020.  
+1. Qureshi NS. *How To Understand Things*.  
 2. Rozenblit L, Keil FC. The misunderstood limits of folk science: an illusion of explanatory depth. *Cognitive Science*. 2002;26(5):521–562.  
 3. Feynman RP. *Cargo Cult Science*. 1974.  
 4. Hamming RW. *You and Your Research*. Bell Communications Research Colloquium, 1986.  
 5. Merton RK. The Matthew Effect in Science, II: cumulative advantage and the symbolism of intellectual property. *Isis*. 1988;79(4):606–623.  
 6. Leroy S. Why is it so hard to do my work? The challenge of attention residue when switching between work tasks. *Organizational Behavior and Human Decision Processes*. 2009;109(2):168–181.  
 7. Pieper J. *Leisure, the Basis of Culture*. 1952.
+
 
 
 
