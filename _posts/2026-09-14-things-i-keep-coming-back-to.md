@@ -10,71 +10,228 @@ I keep far too many notes from books, papers, essays and conversations. They are
 
 I went back through some of them recently and realised that the same questions keep reappearing. Not in a neat way, and definitely not in a way that adds up to a philosophy. More like recurring irritations.
 
-## Understanding is a more stubborn thing than I thought
+---
 
-One idea I really like from Nabeel Qureshi is that intelligence is not only about processing ability. Part of it may be temperamental. Some people simply refuse to accept an explanation they cannot make sense of for themselves, even when everyone else seems satisfied.[^1]
+## On understanding something properly
 
-There is a particular kind of courage in being the person who still says, “I don’t understand why that follows,” when the room has already moved on. Sometimes the question is basic, sometimes it reveals that everybody else has quietly stepped over the same gap. The more difficult problem is noticing the gap in yourself.
+One of the ideas I keep returning to comes from Nabeel Qureshi, who writes about understanding as something more demanding than simply possessing the correct answer.[^1] There are people who seem almost temperamentally unwilling to accept an explanation they cannot make sense of for themselves. They will keep asking why a step follows, try another representation, reconstruct the argument from scratch, or go looking for an explanation that makes the mechanism visible rather than merely naming it.
 
-I find complete ignorance quite easy to recognise. Partial understanding is much more convincing. I have read the paper, I know the terminology, nothing sounds unfamiliar, and my brain decides this probably counts as understanding.
+I find that much more interesting than the usual picture of intelligence as speed.
 
-Then I try to explain it without the paper in front of me. Feynman’s writing on scientific integrity comes back to the same discomfort. The challenge is not only to avoid misleading other people, it is to become suspicious of how easily we can mislead ourselves.[^2]
+The harder problem, at least for me, is not admitting that I do not understand something. It is noticing that I do not understand it. Familiarity does an excellent impression of comprehension. Once I know the vocabulary and have seen the diagram three times, my brain becomes very generous in what it is willing to certify as knowledge.
 
-Writing and teaching help with that. A thought can feel perfectly coherent in my head and then become much less impressive halfway through the fourth sentence. I used to find this frustrating. Now I think it is one of the most useful things writing and teaching do.
+The quickest way to expose this is usually to remove the source. Close the paper and explain the idea. Draw it. Tell someone else why one step leads to the next. Change one assumption and see what survives. If the explanation collapses as soon as the original wording disappears, then perhaps I had learned the surface of the thing rather than the thing itself.
 
-## I want to spend more time with questions before I inherit the answers
+Feynman’s essay on scientific integrity comes back to the same problem from a harsher angle. His point is not merely that scientists should avoid deceiving other people. It is that we are exceptionally good at deceiving ourselves, particularly when we are attached to a result.[^2] I like this because it turns intellectual honesty into something active. It is not enough to refrain from lying. You have to go looking for the version of the story that would make you less comfortable.
 
-My instinct with almost any scientific question is to search it immediately. Find the best review, find the latest paper, see how the field has organised the problem. Usually that is exactly what I should do, but I also think it can happen too quickly.
+Writing has become useful to me for exactly this reason. A thought can feel elegant in my head because all the transitions are implicit. On paper, the missing steps become visible very quickly. Some ideas survive. Some become much less impressive around sentence four. That used to annoy me. Now I think it is one of the reasons to write in the first place.
 
-Qureshi suggests thinking about the question yourself before reading everything that has already been said about it.[^1] I like that. Not because I expect to independently reinvent a field, but because there is value in finding out what *I* find strange before I learn what I am supposed to find strange. There is something very easy about borrowing the structure of a problem from someone more experienced. Sometimes that is efficient. Sometimes it means I never find out how I would have framed it myself. Even if my theory turns out to have been disproved beautifully in 1987, that is fine. Discovering why it is wrong probably teaches me more than beginning with the accepted explanation. This is also why I think independence of thought interests me more than originality. Originality is a funny goal. You can spend a week feeling extremely original and then discover that someone published your idea before you were born. Independent thought is different. It means being willing to reach a conclusion yourself, including when the conclusion turns out to be the same as everyone else’s. That seems more useful, and also more honest. This is not really a criticism of education. There is simply too much to learn. There is always another lecture, another subject, another exam. At some point it becomes rational to say, “I understand enough to continue.” If every medical student refused to leave renal physiology until every transporter felt emotionally and philosophically resolved, nobody would ever graduate. Still, I think there is a cost to getting very good at moving on. You learn the algorithm. You know what happens next. You can recognise the pattern. You can answer the question. And after a while, going back because something still bothers you can start to feel inefficient. Qureshi writes about this too. A system that rewards progress naturally teaches us not to follow every confusion down every rabbit hole.[^1] That is often necessary. I just do not want to become too good at it. I want to keep some appetite for wasting an afternoon on something because I still do not understand it.
+There is another habit I want to develop more deliberately, which is spending some time with a question before immediately reading what everyone else has said about it. My default scientific instinct is the opposite. Search first. Find the review. Learn the field’s vocabulary. Find the consensus. This is usually efficient, but it can also mean inheriting the architecture of the problem before I have had a chance to notice what I would have found strange on my own.
 
-## Hamming’s question is slightly terrifying
+Qureshi recommends thinking before reading for exactly this reason.[^1] I do not expect to independently rediscover an entire field, and I am perfectly comfortable finding out that my brilliant theory was disproved in 1987. But there is something valuable in reaching the failure honestly. If I build a model and then discover why it is wrong, I understand the accepted model differently than if I simply start from it.
 
-Richard Hamming used to ask scientists what the important problems in their field were. Then he would ask which of those problems they were actually working on.[^3] The second question is much worse. It is very easy to become excellent at answering questions without stopping to ask whether the questions are worth that much of your time. There is always a perfectly respectable next thing to do in research. Another analysis. Another dataset. Another paper. Another technically sound extension of something that already exists. None of this is bad. Most science is necessarily incremental, but I like returning occasionally to a more uncomfortable question. If I became extremely good at doing exactly what I am doing now, where would it lead?
+This may be why I increasingly prefer **independence of thought** to **originality** as an aspiration. Originality is partly historical luck. You can feel wildly original for a week and then discover that someone published the idea before you were born. Independent thought is available even when the answer is old. It means being able to arrive somewhere by your own reasoning, including when you end up exactly where everyone else already is.
 
-Hamming’s version of an important problem is not just “the biggest imaginable problem.” It also needs to be vulnerable to thought. A problem can matter enormously and still be too inaccessible to organise a research life around. I think choosing the right level of difficulty is probably one of the hardest things in science. Too small and you can spend years producing excellent answers to questions that do not change much. Too large and you can spend years admiring a beautiful problem from a safe distance. Somewhere between the two is a question worth carrying around. Hamming describes scientists who keep important problems mentally available for long periods of time.[^3] That idea has stayed with me.
+A few tests I have started to like more than “have I read enough about this?” are these:
 
-It changes how I think about creativity. The breakthrough does not always begin when a new technique or observation appears. Sometimes the question has been there for years. The person recognises the usefulness of the new thing because there was already somewhere for it to go. I like this much more than the image of creativity as a sudden flash. A lot of good thinking may simply be keeping the right questions alive for long enough.
+- Can I explain the mechanism without repeating the wording of the source?
+- Do I know which part of the argument I would attack if I wanted it to be wrong?
+- What observation would change my mind?
+- Am I confused because the idea is difficult, or because nobody has actually explained the difficult part?
 
-## Luck is real, but so is where you place yourself
+That last one is surprisingly useful.
 
-I have always disliked the way discussions about success force a choice between effort and luck. Either someone worked hard and therefore earned everything, or they were lucky and the achievement somehow counts less. That has never made much sense to me.
+School complicates all of this because education has to reward progress. There is always another lecture, another subject, another exam. At some point, “I understand this enough to continue” is the rational choice. If every medical student refused to leave renal physiology until every transporter felt philosophically resolved, the workforce implications would be serious.
 
-*Outliers* is persuasive on this point. Gladwell’s examples are full of extraordinary effort, but also timing, access, family, culture and opportunity.[^4] The Beatles still had to play. Gates still had to spend the hours. The opportunity did not do the work for them. But pretending the opportunity was irrelevant would be equally silly. Hamming approaches the same problem differently. Chance matters, but preparation changes what you are able to do when chance appears.[^3] I like holding both ideas together. “I worked very hard” and “I was incredibly lucky” are not contradictory sentences. They are often both true. This has also made me think differently about networking, a word that somehow manages to make human curiosity sound like a business development strategy. I am much more interested in increasing the number of interesting accidents a life can contain. Talk to people outside your field. Go somewhere you know nobody. Ask what someone is working on. Show someone a half-formed idea. Read something that has no obvious use yet. None of this guarantees anything. ## I need both the closed door and the open one Cal Newport makes a convincing case for protecting uninterrupted attention.[^5]
+The danger is not learning to move on. The danger is becoming so good at moving on that curiosity starts to feel like poor time management.
 
-Hamming, meanwhile, observed that people with closed office doors often got more done in the short term, while those with open doors were interrupted more but also heard more about what others were doing and what problems mattered.[^3] I know what happens when I leave the door metaphorically open all day. I answer things, read things, help with things, switch between things, and arrive at the evening having been very busy without having thought very hard. Sophie Leroy’s work on attention residue gives this a mechanism. When we switch tasks, especially unfinished ones, some of our attention can remain attached to what came before.[^6] I know this kind of day very well. Twelve useful things done. No difficult thing meaningfully advanced. It is a particularly respectable form of procrastination because nothing I am doing is useless.
+I would like not to become that efficient.
 
-The opposite extreme does not seem ideal either. If I eliminate every interruption, every conversation and every accidental encounter, I may protect my concentration while slowly becoming less connected to anything outside my own head. So perhaps the rhythm matters more than the rule. Go out. Talk to people. Get exposed to ideas you did not plan to encounter. Then go away again.
+---
 
-## People change what you think is normal
+## The question before the answer
 
-One of the things I like most in *Outliers* is the insistence that environment is not just background scenery.[^4] The people around us change what feels ordinary. How hard people work. How seriously they take a question. Whether they share ideas. Whether they complain constantly. Whether they think something is possible. Whether asking a basic question feels safe. A good environment does more than make you work harder. It changes the size of the questions you think you are allowed to ask. Sometimes a mentor does not give you an answer or even a project. They simply take your idea seriously enough that you start taking it seriously too. It also makes the reverse question difficult to avoid. What kind of environment am I for other people? It is easy to think carefully about surrounding yourself with intelligent, curious and generous people because they will make you better. It is less comfortable to remember that you are also part of everyone else’s environment. ## Intelligence is much more attractive when it is generous There are brilliant people who make everyone around them quieter. The room contracts. Questions become riskier. Half-formed ideas stay unspoken because nobody wants to offer something imperfect in front of the person who always seems to have the finished answer. And then there are people who are just as intelligent and somehow have the opposite effect. They ask a question that improves your idea. They send the reference. They explain something without making you feel stupid for not knowing it. They become genuinely excited when someone else sees something they missed. I increasingly think this kind of generosity is part of intellectual life, not something separate from it. A clever person can solve a difficult problem. A generous clever person can make several other people think better too.
+Richard Hamming used to ask scientists what the important problems in their field were. Then he would ask which of those problems they were actually working on.[^3]
 
-I find the second more impressive now. Listening belongs here as well. David Schwartz writes, in wonderfully dated language, about the importance of listening rather than monopolising the conversation.[^9] The phrasing belongs to another era, but the logic is hard to argue with. When I talk, I mostly hear information I already possess. When I ask a good question and actually listen to the answer, there is at least a chance that something new gets in. This is an extremely obvious strategy for learning. I remain surprisingly inconsistent at using it.
+I find the second question much more interesting.
 
-## I know a lot about attention and still check my email
+There is always a respectable next thing to do in research. Another analysis. Another dataset. Another paper. Another technically competent extension of something that already exists. Most science is necessarily incremental, and there is nothing wrong with that. But it is possible to become very good at producing answers without periodically asking whether the questions deserve that much of your life.
 
-I have read enough about deep work to know that constant task switching is bad. This knowledge has done remarkably little to stop me from opening email in the middle of writing. Knowing what helps is not the same as building a life in which the helpful thing happens reliably. That is why Newport’s emphasis on routines makes more sense to me than advice about motivation.[^5] If serious work requires me to first feel inspired, focused, rested, confident and morally excellent, then serious work is in trouble. Ritual removes some of that negotiation. Same place. Same period of time. Fewer decisions. It is less romantic than waiting for inspiration. I also like the distinction between the outcomes we care about and the things we can actually do today. “Publish the paper” is not a useful instruction for a Tuesday. “Analyse the data for two hours” is. Ambitious goals are usually expressed in outcomes. Daily life is necessarily expressed in actions. For some reason, I need to relearn this regularly. The deliberate-practice literature has suffered slightly from becoming motivational folklore. Ericsson and colleagues argued that expertise depends heavily on sustained, structured practice designed to improve performance rather than simply accumulating hours.[^7] Later work complicated the strongest version of that story. Deliberate practice matters, but it does not explain everything, and its contribution differs across domains.[^8] Feedback matters. Correction matters. The quality of the hours matters. Talent also matters. Opportunity matters. None of these ideas need to cancel one another. What I dislike is how quickly the word *talented* can compress an entire history into one adjective. Sometimes it is accurate; sometimes it deletes ten years.
+The version of Hamming’s question that stays with me is less grandiose than “am I solving one of humanity’s greatest problems?” It is closer to this:
 
-## I want being wrong to be cheaper
+**If I became exceptionally good at doing exactly what I am doing now, where would it lead?**
 
-Feynman’s version of scientific integrity asks for something quite demanding. Do not only present the evidence that supports your argument. Make a serious effort to expose the ways it might fail.[^2] That requires being less emotionally invested in staying right. New evidence arrives. The model changes. That should feel like progress. Instead, “I changed my mind” still sounds suspiciously like “I lost.” This is probably one of the stranger habits of intellectual life. Being wrong once is inevitable. Defending the wrong thing for another six months because it has now become part of your identity is optional. “Action cures fear” is one of those sentences that makes me want to roll my eyes and then keeps proving annoyingly useful. Schwartz returns to this idea throughout *The Magic of Thinking Big*.[^9] I would not take it literally. Some fears are useful and some actions are foolish. What I do believe is that action produces information. Send the email. Try the analysis. Ask the question. Apply. Show someone the unfinished version. The imagined problem becomes a real one. Real problems have edges. They can be examined. I often want to prepare until uncertainty disappears. Unfortunately, some information only exists after the decision has been made. At that point, more preparation is really a request for the future to tell me what happens before I get there. The future has so far been uncooperative. We have become extremely good at removing empty time. The lift. The queue. The walk somewhere. The train. Three minutes before someone arrives. There is always something available before a thought has enough time to form.
+That is not always a comfortable question, which is probably why it is useful.
 
-Newport treats tolerating boredom as part of training concentration.[^5] I do not want to turn this into another rule. I am not planning to sit upright on trains contemplating consciousness while everybody else watches TikTok. Sometimes I also want to look at nonsense on my phone. But I am less convinced now that every empty minute needs filling. The same goes for walking.
+Hamming’s idea of an important problem is also more practical than it first sounds. Importance alone is not enough. A question needs some route in. There are enormous questions with no tractable path and modest-looking questions that become important because someone finds the right way to enter them.[^3] Choosing the right level of ambition may be one of the harder forms of scientific judgement. Too small and you can spend years polishing work that changes very little. Too large and you can spend years admiring the problem from a respectful distance.
 
-Attention Restoration Theory suggests that some environments may allow directed attention to recover, and classic experimental work found cognitive benefits after interaction with natural rather than urban environments.[^10] The literature is more complicated than one experiment, obviously. Still, I enjoy having a scientific justification for going outside.
+Somewhere between those two is a question worth carrying.
 
-## Sometimes you need to get closer to the thing itself
+I love Hamming’s description of scientists who keep important problems mentally available for long periods of time.[^3] It changes the usual story of creativity. A new technique or observation does not automatically generate a breakthrough. The person notices what the new thing makes possible because there was already a question waiting for it.
 
-Robert Capa’s famous line about getting closer if the pictures are not good enough belongs to photography and to a very specific kind of physical proximity.[^11] I keep thinking about it in science. Sometimes another abstraction is not what I need. Sometimes I need the patient, the anatomy, the scan, the raw data, the original experiment, the original paper rather than the paper citing it. Abstraction is useful because it removes noise. It is also dangerous because the thing itself can quietly disappear while the model becomes more elegant. I want to remember to go back and look.
+That suggests a very different way of thinking about ideas. Instead of asking constantly, “What should I work on next?”, maybe it is worth having a small number of questions that remain alive in the background for years.
 
-## Not everything needs to justify itself
+Not every question deserves this privilege.
 
-Churchill began painting in adulthood and wrote about it as pleasure, absorption and relief from mental strain.[^12] I love this partly because of how hard it is now to talk about leisure without turning it into another productivity intervention. Walking improves cognition. Exercise improves performance. Hobbies prevent burnout. Dinner with friends protects wellbeing. All probably true. But sometimes dinner should be dinner. There should be people in my life who are not “connections.” Books that do not become references. Walks that do not need to restore attention. Things I do badly and have no intention of getting better at. Time that does not become anything else. I think a life made entirely of means eventually forgets what the ends were.
+The difficult part is choosing which ones do.
 
-## I like the contradictions more now
+---
 
-Going back through all of this, I do not think the books agree with each other. I am glad. Hamming tells me to choose important problems and take them seriously. Churchill reminds me that not everything should become an important problem. Newport tells me to protect attention. Hamming reminds me that a permanently closed door has costs. Gladwell makes circumstance impossible to ignore. Hamming insists that preparation still changes what we can do with circumstance. Feynman asks for relentless doubt. Anyone trying to build something eventually has to act before all doubt is gone. I used to expect useful ideas to fit together more neatly. Now I think the contradictions are often where the useful part begins. I do not really want more rules. I want better judgement about when each rule stops working. When should I keep digging and when should I move on? When should I shut the door and when should I leave it open? When is doubt intellectual honesty and when is it fear with excellent vocabulary? When is persistence admirable and when am I simply refusing to abandon a bad idea? Which things are worth optimising, and which become worse the moment I try? I doubt there is a book that resolves all of this. Which is probably fortunate. I would underline it, copy half of it into my notes, and find it again six months later with absolutely no memory of having read it.
+## Luck, rooms, and other people
+
+*Outliers* is at its best when it makes simple stories of success difficult to maintain.[^4] The people in it work extraordinarily hard, but effort is never the whole causal story. Timing matters. Access matters. Family matters. Culture matters. Someone is born in the right year, encounters the right technology, gets unusual access to a computer, lands in Hamburg, meets the right teacher.
+
+None of this erases the work.
+
+That is exactly the point.
+
+I have always found the argument between “they earned it” and “they were lucky” strangely unhelpful because the two statements can be true at the same time. A person can work harder than almost everyone around them and still owe a great deal to circumstances they did not create.
+
+Hamming adds a useful complication. Luck matters, but preparation changes what we are able to do with it.[^3] Chance may open the door, but not everyone standing nearby recognises what is on the other side.
+
+I like that formulation because it leaves room for both humility and agency.
+
+It also makes me think differently about networking, which is a word that can make almost any human interaction sound depressing. I would rather think in terms of exposure to interesting accidents. Talk to people outside your field. Go somewhere you know nobody. Ask someone what they are working on. Show somebody an unfinished idea. Read something with no obvious use yet. Not because every conversation must become an opportunity, but because a life sealed against randomness is unlikely to contain much serendipity.
+
+There is a related thing I have started noticing in good intellectual environments. They do not only provide opportunities. They change what feels normal.
+
+A room has standards before anyone states them. How carefully do people think? Is it acceptable to ask a basic question? Do people share unfinished ideas or protect them? Does someone saying “I don’t know” lower their status or raise it? Are people more interested in understanding the problem or in being seen to understand it first?
+
+Good mentors seem to alter this calibration almost invisibly. Sometimes they do not give you the answer or even the project. They simply take a question seriously enough that you begin to take it seriously too.
+
+That makes the reverse question unavoidable.
+
+What kind of room do I create for other people?
+
+This is not a moral decoration on top of intellectual life. It affects what gets thought. There are brilliant people who make everyone around them quieter. Half-formed ideas disappear before they are spoken because the cost of being imperfect feels too high. Then there are people who are just as intelligent and somehow produce the opposite effect. They ask the question that improves your idea. They send the reference. They explain something without making ignorance humiliating. They are genuinely pleased when somebody else sees something they missed.
+
+I increasingly think that intelligence without generosity is a much less interesting form of intelligence.
+
+A clever person can solve a difficult problem. A generous clever person can change the quality of thinking available to several other people.
+
+That seems like a larger achievement.
+
+A related note I had written down from David Schwartz was about listening.[^9] The wording is very 1950s, but the underlying logic is almost embarrassingly obvious. When I talk, I am mostly hearing information already inside my own head. When I ask a good question and actually listen to the answer, there is at least a possibility that something new gets in.
+
+I am aware of this and continue to interrupt people anyway, which is perhaps evidence that understanding a principle and living by it remain separate skills.
+
+---
+
+## Attention, or why knowing the theory has not saved me
+
+I have read enough about attention to become quite sophisticated in my procrastination.
+
+I know that task switching is costly. I know that unfinished work leaves attention residue. Sophie Leroy’s experiments give a mechanism for something that is otherwise easy to recognise intuitively. When we leave one task, especially an unfinished one, part of our attention can remain attached to it and impair performance on the next.[^6]
+
+This has not prevented me from checking email in the middle of writing.
+
+It has, however, given me better vocabulary for the consequences.
+
+There is a particular kind of day where everything I did was defensible and almost nothing difficult moved forward. Messages answered. References organised. Small analyses finished. Forms submitted. Useful conversations had. Twelve useful things done, no hard thing substantially changed.
+
+This is why I find Cal Newport’s emphasis on routine more useful than advice about motivation.[^5] If difficult work requires me first to feel inspired, focused, rested, confident and unusually virtuous, it will not happen very often. A routine reduces the number of times I need to negotiate with myself.
+
+There is still a tension here that I do not want to resolve too neatly.
+
+Newport makes a strong case for protecting uninterrupted attention.[^5] Hamming, on the other hand, observed that people with closed office doors often produced more immediately, while people with open doors were interrupted more but also knew more about what was happening around them and which problems mattered.[^3]
+
+Both seem true.
+
+Too much interruption and the mind never gets deep enough into anything. Too little exposure and it can become beautifully concentrated on the wrong problem.
+
+I suspect I need both states, just not simultaneously.
+
+Some days should be porous. Conversations, meetings, reading, people, ideas.
+
+Some should be almost boringly protected.
+
+The failure mode is trying to combine both and calling it flexibility.
+
+There is another small distinction from *Deep Work* that I find useful because it makes ambition more practical. We tend to formulate goals as outcomes and then judge individual days against them. Publish the paper. Get the position. Finish the degree. Reach the next place. But an ordinary Tuesday cannot publish a paper. It can analyse data for two hours. It can write 800 words. It can send the draft.
+
+The outcome matters, but it is a terrible instruction.
+
+This is one of those ideas that is obvious enough to be annoying and useful enough to require relearning.
+
+The same goes for practice. Ericsson and colleagues made the case for deliberate practice as structured, effortful work designed specifically to improve performance rather than simply accumulate experience.[^7] Later meta-analysis complicated the stronger mythology around the idea. Deliberate practice matters, but it does not explain everything, and the size of its contribution varies by domain.[^8]
+
+I prefer that messier conclusion.
+
+Feedback matters. Talent matters. Opportunity matters. The structure of practice matters. None of them need to win the argument.
+
+What I dislike is how easily one word can erase the rest of the story. “Talented” may be true. It may also delete ten years.
+
+---
+
+## A few things I am less sure about than I used to be
+
+I am less sure that being busy is evidence that I am working on the right thing.
+
+I am less sure that confidence should come before action. Some information only exists after you send the email, try the analysis, apply, ask, show someone the unfinished version. At a certain point preparation becomes an attempt to make the future disclose itself in advance. The future has so far been uncooperative.
+
+I am less sure that being wrong should feel expensive. Feynman’s standard of scientific integrity asks us to actively expose the weaknesses of our own argument.[^2] In principle, new evidence changing the model should feel like progress. In practice, humans have managed to make “I changed my mind” sound suspiciously like “I lost.” I would like to get better at separating those.
+
+I am less sure that empty time is empty. Newport writes about tolerating boredom as part of rebuilding the capacity for concentration.[^5] Attention Restoration Theory goes in a different direction and suggests that some environments may allow directed attention to recover; classic experimental work found cognitive benefits after interaction with natural environments compared with urban ones.[^10] I do not intend to convert every walk into a neurological intervention, but I have become more suspicious of the instinct to fill every queue, train ride and three-minute gap with input.
+
+And I am less sure that abstraction is always a sign of progress.
+
+Robert Capa’s famous line about getting closer if the pictures are not good enough belongs to photography, but I keep returning to it as a scientific metaphor.[^11] Sometimes the problem does not need another conceptual layer. Sometimes I need to go back to the patient, the anatomy, the scan, the raw data, the original experiment, the original paper rather than the review citing it.
+
+Abstraction removes noise. It can also remove the thing.
+
+---
+
+## Things I do not want to optimise
+
+Churchill began painting in adulthood and wrote about it as pleasure, absorption and relief from mental strain.[^12] I like this partly because modern writing about hobbies has become strangely incapable of leaving them alone.
+
+Walking improves cognition. Exercise improves performance. Hobbies prevent burnout. Dinner with friends protects wellbeing. Reading fiction improves empathy. Sleep enhances memory.
+
+All of that may be true.
+
+It is also exhausting.
+
+If every beautiful thing in life has to justify itself through improved performance somewhere else, then productivity has quietly annexed the entire life it was supposed to serve.
+
+I want some books that never become references. Some walks that do not restore anything. People who are not “connections”. Things I do badly and have no intention of mastering. Time that is not converted into output.
+
+There is probably a useful warning here for ambitious people in particular. It is very easy to make the whole world instrumental when you care a lot about doing something well. Every conversation becomes potentially useful. Every hour acquires an opportunity cost. Even rest begins to need a business case.
+
+I do not think that is a very good way to live.
+
+A life made entirely of means eventually forgets what the ends were.
+
+---
+
+## What I like most is that none of this fits together perfectly
+
+Hamming tells me to choose important problems and pursue them seriously. Churchill reminds me that not everything should become an important problem.
+
+Newport tells me to protect attention. Hamming reminds me that a permanently closed door has costs.
+
+Gladwell makes circumstance impossible to ignore. Hamming insists that preparation still changes what we can do with circumstance.
+
+Feynman asks for almost uncomfortable levels of doubt. Anyone trying to build something eventually has to act before all doubt has disappeared.
+
+I used to think useful ideas should converge more neatly than this. Now I find the friction between them more useful than the rules themselves.
+
+The questions I care about are increasingly about conditions rather than absolutes.
+
+When does persistence become refusal to abandon a bad idea?
+
+When does doubt become fear with excellent vocabulary?
+
+When does focus become isolation?
+
+When does ambition become extraction?
+
+When does preparation stop improving the decision and start postponing it?
+
+When does efficiency begin to optimise away the very parts of life that made the work worth doing?
+
+I doubt there is a book that resolves all of those questions.
+
+Which is probably fortunate. I would underline half of it, copy the important parts into my notes, and find them six months later with absolutely no memory of having read them.
 
 ---
 
@@ -96,12 +253,13 @@ Going back through all of this, I do not think the books agree with each other. 
 
 [^8]: Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). “Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis.” *Psychological Science*, 25(8), 1608–1618. <https://doi.org/10.1177/0956797614535810>
 
-[^9]: Schwartz, D. J. (1959). *The Magic of Thinking Big*. Prentice-Hall. Current publisher edition at <https://www.penguinrandomhouse.ca/books/318482/the-magic-of-thinking-big-by-david-j-schwartz-phd/9780698198586>
+[^9]: Schwartz, D. J. (1959). *The Magic of Thinking Big*. Prentice-Hall. Current publisher edition: <https://www.penguinrandomhouse.ca/books/318482/the-magic-of-thinking-big-by-david-j-schwartz-phd/9780698198586>
 
 [^10]: Berman, M. G., Jonides, J., & Kaplan, S. (2008). “The Cognitive Benefits of Interacting With Nature.” *Psychological Science*, 19(12), 1207–1212. <https://doi.org/10.1111/j.1467-9280.2008.02225.x>
 
 [^11]: Magnum Photos. Robert Capa profile and archive. <https://www.magnumphotos.com/photographer/robert-capa/>
 
-[^12]: Churchill, W. S. (1948). *Painting as a Pastime*. First published in article form in *The Strand Magazine* in 1921–1922; later collected and expanded. Project Gutenberg Canada edition at <https://www.gutenberg.ca/ebooks/churchillws-paintingasapastime/churchillws-paintingasapastime-00-h-dir/churchillws-paintingasapastime-00-h.html>
+[^12]: Churchill, W. S. (1948). *Painting as a Pastime*. First published in article form in *The Strand Magazine* in 1921–1922; later collected and expanded. Project Gutenberg Canada edition: <https://www.gutenberg.ca/ebooks/churchillws-paintingasapastime/churchillws-paintingasapastime-00-h-dir/churchillws-paintingasapastime-00-h.html>
+
 
 
