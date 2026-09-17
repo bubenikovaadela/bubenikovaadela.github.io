@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Essays
+title: Writing
 permalink: /blog/
 ---
 
-<ul class="essay-list">
+<p class="writing-intro">Essays and notes on science, medicine, technology, and the questions I keep coming back to.</p>
+
+<ul class="essay-list essay-list--writing">
 {% for post in site.posts %}
   <li class="essay-item">
     <div class="essay-line">
