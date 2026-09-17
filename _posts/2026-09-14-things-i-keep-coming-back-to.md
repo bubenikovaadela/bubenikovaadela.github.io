@@ -122,7 +122,7 @@ Perhaps this is why I keep returning to these ideas rather than trying to resolv
 
 Most discussions of leadership begin too late. They start with technique: communication, delegation, motivation, decision-making, trust. But technique is morally underdetermined. The same skills can be used to create autonomy or dependence, intellectual courage or conformity, institutions that outgrow their founders or institutions built around them.
 
-The prior question is therefore not [*How do I become a good leader?*] but [*What do I want leadership to do?*] Leadership should be deliberate not only in its methods, but in its purpose.
+The prior question is therefore not *How do I become a good leader?* but *What do I want leadership to do?* Leadership should be deliberate not only in its methods, but in its purpose.
 
 Power, even in small doses, changes the moral structure of a relationship. Once other people’s opportunities, confidence, visibility or freedom to speak are partly shaped by your decisions, competence is no longer enough. Influence becomes something that should be exercised deliberately, because its consequences extend beyond the immediate decision. The relevant question is what that influence does to other people’s agency: whether it enlarges it or quietly replaces it.
 
@@ -130,7 +130,7 @@ I think the strongest form of leadership is therefore slightly paradoxical. Its 
 
 This is also why I am suspicious of the desire to “be a good leader” when the desire itself goes unexamined. It can hide vanity surprisingly well. Wanting to be admired for being generous, visionary or supportive is still a way of keeping oneself at the centre. A more interesting ambition is to be deliberate about creating conditions in which other people can become more capable than they would have been otherwise, including in directions one did not choose for them.
 
-So the difficult part of leadership may not be influence itself, but knowing what influence is for. The question I would rather keep is not [*How well am I leading?*] but [*What becomes more possible for other people because I am here?*]
+So the difficult part of leadership may not be influence itself, but knowing what influence is for. The question I would rather keep is not *How well am I leading?* but *What becomes more possible for other people because I am here?*
 
 [^1]: Nabeel S. Qureshi, [*How To Understand Things*](https://nabeelqu.co/understanding), 1 July 2020.
 
