@@ -1,5 +1,5 @@
 title: "Adela Bubenikova"
-description: "Neuroscience, neurosurgery, research and essays."
+description: "Neurosurgery, neuroscience, research and writing."
 url: "https://bubenikovaadela.github.io"
 
 locale: "en_GB"
@@ -14,10 +14,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Keep the existing /blog/ post URLs so previously shared links continue to work.
 permalink: /blog/:year/:month/:day/:title/
 
 nav:
-  - title: "Essays"
+  - title: "Writing"
     url: "/blog/"
   - title: "Research"
     url: "/research/"
