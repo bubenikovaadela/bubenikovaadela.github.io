@@ -12,15 +12,19 @@ permalink: /
 
   <p>I’m part of <a href="https://praguebrainsgroup.com/" target="_blank" rel="noopener">PragueBrainsGroup</a> and study at the <a href="https://www.lf2.cuni.cz/en" target="_blank" rel="noopener">Second Faculty of Medicine, Charles University</a>. I also write science communication for <a href="https://vesmir.cz/" target="_blank" rel="noopener">Vesmír</a>.</p>
 
-  <p>This site is where I keep research, essays, and things I am still trying to understand.</p>
+  <p>This site is where I keep research, writing, and things I am still trying to understand.</p>
 </div>
 
 <hr>
 
 <section class="home-section">
-  <h2>Essays</h2>
+  <div class="section-heading-row">
+    <h2>Writing</h2>
+    <a class="section-link" href="{{ "/blog/" | relative_url }}">All writing →</a>
+  </div>
+  <p class="section-kicker">Essays and notes on science, medicine, technology, and the questions I keep coming back to.</p>
   <ul class="essay-list">
-  {% for post in site.posts limit:9 %}
+  {% for post in site.posts limit:7 %}
     <li class="essay-item">
       <div class="essay-line">
         <a class="essay-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -36,7 +40,6 @@ permalink: /
     </li>
   {% endfor %}
   </ul>
-  <p class="inline-links"><a href="{{ "/blog/" | relative_url }}">All essays</a></p>
 </section>
 
 <hr>
