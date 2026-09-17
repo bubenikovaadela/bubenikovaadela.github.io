@@ -1,69 +1,15 @@
 ---
-layout: null
+layout: default
 ---
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    {% seo %}
-    <script>
-      (function () {
-        try {
-          var saved = localStorage.getItem("theme");
-          if (saved) document.documentElement.dataset.theme = saved;
-        } catch (e) {}
-      })();
-    </script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}">
-  </head>
-  <body>
-    <main class="article-shell">
-      <div class="article-tools">
-        <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">☾</button>
-        <a class="back-link" href="{{ "/blog/" | relative_url }}">← Back</a>
-      </div>
+<article class="post">
+  <header class="post-header">
+    <p class="post-back"><a href="{{ "/blog/" | relative_url }}">← Writing</a></p>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
+    <p class="post-date">{{ page.date | date: "%B %-d, %Y" }}</p>
+  </header>
 
-      <article class="post">
-        <header class="post-header">
-          <h1>{{ page.title }}</h1>
-          {% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
-          <p class="post-date">Published: {{ page.date | date: "%B %-d, %Y" }}.</p>
-        </header>
-
-        <div class="post-body">
-          {{ content }}
-        </div>
-      </article>
-    </main>
-
-    <script>
-      (function () {
-        var button = document.querySelector(".theme-toggle");
-        if (!button) return;
-
-        function prefersDark() {
-          var explicit = document.documentElement.dataset.theme;
-          if (explicit) return explicit === "dark";
-          return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
-        }
-
-        function render() {
-          button.textContent = prefersDark() ? "☀" : "☾";
-        }
-
-        button.addEventListener("click", function () {
-          var next = prefersDark() ? "light" : "dark";
-          document.documentElement.dataset.theme = next;
-          try { localStorage.setItem("theme", next); } catch (e) {}
-          render();
-        });
-
-        render();
-      })();
-    </script>
-  </body>
-</html>
+  <div class="post-body">
+    {{ content }}
+  </div>
+</article>
