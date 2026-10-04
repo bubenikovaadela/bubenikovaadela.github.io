@@ -20,6 +20,8 @@ permalink: /blog/:year/:month/:day/:title/
 nav:
   - title: "Writing"
     url: "/blog/"
+  - title: "Observations"
+    url: "/observations/"
   - title: "Research"
     url: "/research/"
   - title: "Publications"

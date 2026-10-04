@@ -318,6 +318,30 @@ pre {
   font-size: 13.5px;
 }
 
+/* Observations */
+.observation {
+  margin: 32px 0 48px;
+}
+
+.observation img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.observation figcaption {
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+
+.observation figcaption strong {
+  color: var(--text);
+  font-weight: 500;
+}
+
 /* Footer */
 .site-footer {
   padding-bottom: 35px;
